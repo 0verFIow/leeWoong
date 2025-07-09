@@ -15,7 +15,7 @@ I'm always learning—especially algorithms—and enjoy experimenting with new i
 
 ## 📝 Projects
 - [ELEVATOR_Project](https://github.com/0verFIow/ELEVATOR_Project): STM32 + FreeRTOS 기반 엘리베이터 제어 시스템
-- [Device_Driver-Project](https://github.com/OverFlow/Device_Driver-Project): STM32용 각종 디바이스 드라이버 예제 모음
+- [Device_Driver-Project](https://github.com/OverFlow/Device_Driver-Project): STM32 환경에서 BMP180 기압/온도 센서와 LCD1602 I2C 텍스트 LCD를 직접 제어하는 디바이스 드라이버를 설계 및 구현
 - [TCP-IP_Project](https://github.com/OverFlow/TCP-IP_Project): C 기반 멀티스레드 채팅 서버/클라이언트
 
 ---
