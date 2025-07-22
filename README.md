@@ -18,9 +18,7 @@ I'm always learning—especially algorithms—and enjoy experimenting with new i
 - [Device_Driver-Project](https://github.com/0verFIow/Device_Driver-Project): STM32 환경에서 BMP180 기압/온도 센서와 LCD1602 I2C 텍스트 LCD를 직접 제어하는 디바이스 드라이버를 설계 및 구현
 - [TCP-IP_Project](https://github.com/0verFIow/TCP-IP_Proejct): C 기반 멀티스레드 채팅 서버/클라이언트
 - [Receive_Threat](https://github.com/0verFIow/Receive_Threat): 운전자 위협을 감지해 위협 신호를 받아들이고, 차선 정보를 기반으로 차량을 갓길에 안전하게 정차시키는 시스템
-
----
-
+- [SmartFusion_Unit](https://github.com/0verFIow/SmartFusion_Unit): Verilog, Vivado, BASYS3 기반 버튼 한 번으로 분·초시계, 전자레인지, 공조기 세 가지 모드를 전환하며 7-세그먼트 디스플레이와 UART를 통해 직관적으로 제어할 수 있는 복합 스마트 장치
 ## 📚 Blog
 - [Notion Coding Study Page](https://www.notion.so/Coding-Study-Page-1f371c55d5ca80b8ab0adf3ea6d587b4)
 - [티스토리 블로그](https://leeun8000.tistory.com/)
